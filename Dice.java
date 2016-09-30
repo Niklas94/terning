@@ -1,5 +1,7 @@
 package terning;
 
+//Niklas Thielemann var her d. 30. September kl. 12.34
+
 public class Dice {
 	// roll the die and return the value (1-6)
 	public int roll() {
