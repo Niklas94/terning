@@ -1,5 +1,7 @@
 package terning;
 
+//Niklas Thielemann var her d. 30. September kl. 12.35
+
 import static org.junit.Assert.*;
 
 import org.junit.After;
