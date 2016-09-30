@@ -1,6 +1,7 @@
 package terning;
 
 //Niklas Thielemann var her d. 30. September kl. 12.35
+////Ann-Sofie Buchwald var her d. 30. september kl. 12.36
 
 import static org.junit.Assert.*;
 
