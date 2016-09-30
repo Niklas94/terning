@@ -2,6 +2,7 @@ package terning;
 
 //Niklas Thielemann var her d. 30. September kl. 12.34
 //Ann-Sofie Buchwald var her d. 30. september kl. 12.35
+//Louise Willemoes Jensen var her d. 30. september kl. 12.36
 
 public class Dice {
 	// roll the die and return the value (1-6)
