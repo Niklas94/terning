@@ -10,7 +10,7 @@ public class DiceTest {
 
 	@Before
 	public void setUp() throws Exception {
-	}
+hej venner	}
 
 	@After
 	public void tearDown() throws Exception {
